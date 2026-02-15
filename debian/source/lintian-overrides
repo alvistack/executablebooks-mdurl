@@ -1,0 +1,5 @@
+python-mdurl source: file-without-copyright-information
+python-mdurl source: no-debian-changes
+python-mdurl source: source-contains-prebuilt-windows-binary
+python-mdurl source: source-is-missing
+python-mdurl source: source-package-encodes-python-version
